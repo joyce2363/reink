@@ -11,11 +11,7 @@ import UIKit
 class ItemTableViewController: UITableViewController {
 
         var shops : [Shop] = []
-    //Joyce was here
-    
-    //So was marnie
-    
-    //hello
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
